@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "UBPHy9Tq0E9CXO4mJAvYD8/xfCgYTTs9hODdJybJ1Tg=",
+  "Source": "devContainerTest",
+  "BasePath": "_content/devContainerTest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
